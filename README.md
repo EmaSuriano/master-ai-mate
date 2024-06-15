@@ -5,3 +5,7 @@ Se propone resolver, por grupos, cuatro ejercicios para poner en práctica nocio
 Se permite la entrega común entre distintos grupos: para ello los grupos deberán entregar por separado el mismo documento en el que figuren todos los grupos que han participado en esa entrega. La nota de una entrega común se aplicará a cada grupo por igual sin penalización.
 
 En caso de plagio no indicado en la entrega de todos los grupos concernidos, se invalidará la actividad.
+
+Link al collab:
+
+> https://colab.research.google.com/github/EmaSuriano/master-ai-mate/blob/main/math.ipynb
